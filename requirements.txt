@@ -1,4 +1,5 @@
-pip package==24.2
+pip 
+streamlit
 collections
 defaultdict
 re
