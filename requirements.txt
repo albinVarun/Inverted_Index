@@ -1,5 +1,3 @@
-pip 24.2
-streamlit 
-re
 defaultdict
 collections
+re
