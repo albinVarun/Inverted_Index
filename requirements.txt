@@ -1,2 +1,4 @@
+pip --version 24.2
 collections
+defaultdict
 re
